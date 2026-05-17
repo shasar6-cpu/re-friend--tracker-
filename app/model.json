@@ -266,7 +266,7 @@
             "search": true,
             "url": "/friend",
             "page": {
-              "page": "frienddetailpage"
+              "page": "FriendForm"
             }
           }
         ]
